@@ -1,0 +1,21 @@
+body
+{
+    background-color: seagreen;
+
+}
+
+.btn
+{
+    color: white;
+    background-color: black;
+    width: 250px;
+    border-radius: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+
+}
+
+#h1{
+    width: 100%;
+    top: 0;
+}
